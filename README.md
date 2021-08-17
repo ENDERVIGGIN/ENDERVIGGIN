@@ -13,18 +13,18 @@ ENERVIGGIN's Github Repo Introduce
 > 
 > [Blueno](https://github.com/ENDERVIGGIN/Blueno) : Custom dockerfile
 > 
-> [Rika](https://github.com/ENDERVIGGIN/Rika) :
+> [Rika](https://github.com/ENDERVIGGIN/Rika) : enderviggin and yangsusu tools
 > 
 > [Nami](https://github.com/ENDERVIGGIN/Nami) : A complete set of integrated publishing solutions
 > 
 > [Buggy](https://github.com/ENDERVIGGIN/Buggy) : A complete set of monitoring solutions
 > 
-> [Brook](https://github.com/ENDERVIGGIN/Brook) :
+> [Brook](https://github.com/ENDERVIGGIN/Brook) : programming language management
 > 
 > [Hina](https://github.com/ENDERVIGGIN/Hina) : Configuration center
 > 
 > [Kaya](https://github.com/ENDERVIGGIN/Kaya) : Operation and maintenance management platform
-> 
+> [Pinocchio](https://github.com/ENDERVIGGIN/Pinocchio) : A complete set of automating configuration
 
 
 
