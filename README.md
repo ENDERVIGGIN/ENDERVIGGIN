@@ -26,7 +26,8 @@ ENERVIGGIN's Github Repo Introduce
 > [Kaya](https://github.com/ENDERVIGGIN/Kaya) : Operation and maintenance management platform
 > 
 > [Pinocchio](https://github.com/ENDERVIGGIN/Pinocchio) : A complete set of automating configuration
-
+>
+> [Aladdin](https://github.com/ENDERVIGGIN/Aladdin) : Domain name certificate management solution
 
 
 
